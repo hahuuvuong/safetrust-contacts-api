@@ -26,6 +26,8 @@ The following technologies are used in this project:
 - Spring Boot
 - Spring Data JPA
 - Hibernate
+- Swagger
+- Mockito
 - H2 Database (for development environment)
 - Gradle
 
